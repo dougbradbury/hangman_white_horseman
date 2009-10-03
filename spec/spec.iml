@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="JRuby SDK 1.2.0" jdkType="JRUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="[gem] rspec (v1.2.0, /Users/dougbradbury/jruby-1.2.0/lib/ruby/gems/1.8/gems/rspec-1.2.0)" level="application" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <RMODULE_SETTINGS_STORAGE_ID NAME="NUMBER" VALUE="2" />
+    <RMODULE_SETTINGS_STORAGE_ID NAME="CHECKED0" VALUE="true" />
+    <RMODULE_SETTINGS_STORAGE_ID NAME="DIR0" VALUE="$MODULE_DIR$/../lib" />
+    <RMODULE_SETTINGS_STORAGE_ID NAME="CHECKED1" VALUE="true" />
+    <RMODULE_SETTINGS_STORAGE_ID NAME="DIR1" VALUE="$MODULE_DIR$" />
+  </component>
+</module>
+
